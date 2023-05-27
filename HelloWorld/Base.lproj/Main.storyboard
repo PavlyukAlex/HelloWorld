@@ -95,10 +95,10 @@
             </objects>
             <point key="canvasLocation" x="137" y="-962"/>
         </scene>
-        <!--Tab Bar Controller-->
+        <!--Tab Bar View Controller-->
         <scene sceneID="oBb-X8-NJD">
             <objects>
-                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="Jvt-lg-Xj4" sceneMemberID="viewController">
+                <tabBarController storyboardIdentifier="TabBarViewController" automaticallyAdjustsScrollViewInsets="NO" id="Jvt-lg-Xj4" customClass="TabBarViewController" customModule="HelloWorld" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="jKA-gf-6qI">
                         <autoresizingMask key="autoresizingMask"/>
